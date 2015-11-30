@@ -9,3 +9,8 @@ You can read further details about this project from
 
 ##Screen Shot
 <img src="http://blog.colorfulglue.com/wp-content/uploads/2010/11/Screen-shot-2010-11-04-at-11.09.39-AM.png" />
+
+
+<img 
+src="http://stkim1.github.com/3D-Overlay-On-MKMapView/images/debug.jpeg" alt="Debug screen" title="Debug screen" style="float:left;display:block;">
+<img src="http://stkim1.github.com/MTImageMapView/images/release.jpeg" alt="Normal screen" title="Normal screen" style="float:left;display:block;margin-left:1em;">  

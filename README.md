@@ -8,9 +8,6 @@ You can read further details about this project from
 2. [OpenGL on top of Mapview part 1](http://blog.colorfulglue.com/category/3d-on-mapview/)  
 
 ##Screen Shot
-<img src="http://blog.colorfulglue.com/wp-content/uploads/2010/11/Screen-shot-2010-11-04-at-11.09.39-AM.png" />
-
-
 <img 
-src="http://stkim1.github.com/3D-Overlay-On-MKMapView/images/debug.jpeg" alt="Debug screen" title="Debug screen" style="float:left;display:block;">
-<img src="http://stkim1.github.com/MTImageMapView/images/release.jpeg" alt="Normal screen" title="Normal screen" style="float:left;display:block;margin-left:1em;">  
+src="https://raw.githubusercontent.com/stkim1/3D-Overlay-On-MKMapView/master/ScreenShots/Screen-shot-2010-11-04-at-11.09.39-AM.png" style="float:left;display:block;">
+<img src="https://raw.githubusercontent.com/stkim1/3D-Overlay-On-MKMapView/master/ScreenShots/mapview_n_openglview.gif" alt="Normal screen" title="Normal screen" style="float:left;display:block;margin:3em 0 0 2em;">  
